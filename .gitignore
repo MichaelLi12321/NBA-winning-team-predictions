@@ -2,6 +2,9 @@
 nba_games_with_features.csv
 nba_matchups_with_features.csv
 
+# Source data (too large for GitHub)
+team_traditional.csv
+
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
